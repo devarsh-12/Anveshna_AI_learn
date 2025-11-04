@@ -1,0 +1,57 @@
+[
+  {
+    "question_text": "According to the chapter, what is the primary definition of science?",
+    "options": [
+      "A collection of unchanging facts about the universe.",
+      "A way of thinking, observing, and doing things to understand the world.",
+      "A subject that is only studied in a laboratory.",
+      "A list of answers to every question we have."
+    ],
+    "correct_answer": "A way of thinking, observing, and doing things to understand the world.",
+    "explanation": "The text states that 'Science is a way of thinking, observing and doing things to understand the world we live in and to uncover the secrets of the universe.'"
+  },
+  {
+    "question_text": "What does the text identify as the most important quality for engaging in science?",
+    "options": [
+      "Memorization",
+      "Curiosity",
+      "Having expensive equipment",
+      "Knowing all the answers"
+    ],
+    "correct_answer": "Curiosity",
+    "explanation": "The chapter explicitly says, 'For this, the most important thing is to have ‘Curiosity’, which is where the title of this book comes from.'"
+  },
+  {
+    "question_text": "The text compares science to an 'unending jigsaw puzzle'. What does this analogy suggest?",
+    "options": [
+      "Science will one day be complete when all pieces are found.",
+      "Only one person can solve the puzzle of science.",
+      "New discoveries often lead to more questions, making the puzzle endless.",
+      "The pieces of the puzzle, once placed, can never be changed."
+    ],
+    "correct_answer": "New discoveries often lead to more questions, making the puzzle endless.",
+    "explanation": "The text explains, 'There is no limit to what we can discover, since every new piece of knowledge leads to more questions and more things to find out.'"
+  },
+  {
+    "question_text": "Based on the example of the pen that stopped working, which of the following is the correct first step of the scientific method?",
+    "options": [
+      "Guessing a possible answer",
+      "Testing the guess through an experiment",
+      "Observing something interesting or that you don't understand",
+      "Analyzing the results"
+    ],
+    "correct_answer": "Observing something interesting or that you don't understand",
+    "explanation": "The text lists the steps of the scientific method, starting with: 'First, we observe something that we find interesting or we do not understand.' The pen stopping is the observation."
+  },
+  {
+    "question_text": "Who does the chapter suggest can work like a scientist?",
+    "options": [
+      "Only people who have studied science in school.",
+      "Only famous inventors and discoverers.",
+      "Anyone who follows the scientific method to solve a problem.",
+      "Only people who work in high-tech laboratories."
+    ],
+    "correct_answer": "Anyone who follows the scientific method to solve a problem.",
+    "explanation": "The text states, 'But anyone who follows the scientific method is working like a scientist,' and gives examples like a cook or a bicycle repair person."
+  }
+]
